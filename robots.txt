@@ -1,0 +1,6 @@
+# Group 1
+User-agent: *
+Disallow: /assets/
+Allow: /
+
+Sitemap: https://vbillingsoftware.com/sitemap.xml
