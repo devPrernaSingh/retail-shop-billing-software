@@ -3372,7 +3372,7 @@ input[type=number] {
 }
 
 @media(max-width: 768px) {
-  #myModal2 {
+  #offerModal {
     visibility: hidden;
   }
 
